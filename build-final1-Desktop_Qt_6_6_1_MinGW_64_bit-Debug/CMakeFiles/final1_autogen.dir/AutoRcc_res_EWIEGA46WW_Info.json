@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Masoumeh/Desktop/my project c++/final1",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Masoumeh/Desktop/my project c++/final1",
+	"INCLUDE_DIR" : "C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Masoumeh/Desktop/my project c++/final1/enemy.png",
+		"C:/Users/Masoumeh/Desktop/my project c++/final1/player.png",
+		"C:/Users/Masoumeh/Desktop/my project c++/final1/bullet.png",
+		"C:/Users/Masoumeh/Desktop/my project c++/final1/bg.png"
+	],
+	"LOCK_FILE" : "C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/final1_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/final1_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Masoumeh/Desktop/my project c++/final1/res.qrc",
+	"VERBOSITY" : 0
+}

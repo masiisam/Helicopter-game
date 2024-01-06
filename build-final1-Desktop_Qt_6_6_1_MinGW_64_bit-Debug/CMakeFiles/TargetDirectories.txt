@@ -1,0 +1,9 @@
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/final1.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/final1_autogen_timestamp_deps.dir
+C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/final1_autogen.dir

@@ -1,0 +1,47 @@
+# ninja log v5
+1034	5342	7262439701777841	CMakeFiles/final1.dir/Health.cpp.obj	7e8ed65472ecf0f1
+4	884	7262439656647050	final1_autogen/timestamp	ed57c3696d40098e
+4	884	7262439656647050	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/timestamp	ed57c3696d40098e
+4	884	7262439656647050	final1_autogen/mocs_compilation.cpp	ed57c3696d40098e
+4	884	7262439656647050	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/mocs_compilation.cpp	ed57c3696d40098e
+1007	5268	7262439700718307	CMakeFiles/final1.dir/Player.cpp.obj	2f4b32b601828e64
+978	5231	7262439700708316	CMakeFiles/final1.dir/final1_autogen/mocs_compilation.cpp.obj	beb36209da1660be
+974	5219	7262439700515510	CMakeFiles/final1.dir/main.cpp.obj	cabe8ad4c36fb7cf
+884	974	7262439658097043	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/EWIEGA46WW/qrc_res.cpp	7982e02a79b43955
+1022	5222	7262439700484941	CMakeFiles/final1.dir/Score.cpp.obj	e194746a13b70e30
+884	974	7262439658097043	final1_autogen/EWIEGA46WW/qrc_res.cpp	7982e02a79b43955
+983	5287	7262439701228315	CMakeFiles/final1.dir/Bullet.cpp.obj	248d9eb020fc8248
+988	5307	7262439701288323	CMakeFiles/final1.dir/Enemy.cpp.obj	b5f869e3344389e7
+1046	5579	7262439704189251	CMakeFiles/final1.dir/Game.cpp.obj	aa5a4713eba8b0ea
+3	538	7262439879684850	build.ninja	cd14f34657555511
+1065	2333	7262439671708915	CMakeFiles/final1.dir/final1_autogen/EWIEGA46WW/qrc_res.cpp.obj	7130ed7c20ffcef7
+999	5718	7262439705583464	CMakeFiles/final1.dir/mainwindow.cpp.obj	1a65477e2d663d29
+5719	6079	7262439709130346	final1.exe	acbfa5976ddb8b31
+0	37	0	CMakeFiles/clean.additional	baedbe210acaa455
+38	48	0	clean	577b940aee94fbd7
+1	44	0	CMakeFiles/clean.additional	baedbe210acaa455
+44	54	0	clean	577b940aee94fbd7
+5	3172	7262443230997049	final1_autogen/timestamp	ed57c3696d40098e
+5	3172	7262443230997049	final1_autogen/mocs_compilation.cpp	ed57c3696d40098e
+5	3172	7262443230997049	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/timestamp	ed57c3696d40098e
+5	3172	7262443230997049	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/mocs_compilation.cpp	ed57c3696d40098e
+3173	3329	7262443232975293	final1_autogen/EWIEGA46WW/qrc_res.cpp	7982e02a79b43955
+3173	3329	7262443232975293	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/EWIEGA46WW/qrc_res.cpp	7982e02a79b43955
+3384	4060	7262443240294463	CMakeFiles/final1.dir/final1_autogen/EWIEGA46WW/qrc_res.cpp.obj	7130ed7c20ffcef7
+3330	7177	7262443271409257	CMakeFiles/final1.dir/final1_autogen/mocs_compilation.cpp.obj	beb36209da1660be
+3366	7188	7262443271525672	CMakeFiles/final1.dir/Score.cpp.obj	e194746a13b70e30
+3358	7202	7262443271692345	CMakeFiles/final1.dir/Player.cpp.obj	2f4b32b601828e64
+3333	7206	7262443271739994	CMakeFiles/final1.dir/main.cpp.obj	cabe8ad4c36fb7cf
+3352	7211	7262443271790558	CMakeFiles/final1.dir/Health.cpp.obj	7e8ed65472ecf0f1
+3345	7223	7262443271888213	CMakeFiles/final1.dir/Enemy.cpp.obj	b5f869e3344389e7
+3340	7304	7262443272683350	CMakeFiles/final1.dir/Bullet.cpp.obj	248d9eb020fc8248
+3380	7675	7262443276467080	CMakeFiles/final1.dir/Game.cpp.obj	aa5a4713eba8b0ea
+3337	7863	7262443278318084	CMakeFiles/final1.dir/mainwindow.cpp.obj	1a65477e2d663d29
+7864	8464	7262443284303285	final1.exe	acbfa5976ddb8b31
+7	186	7262450880897931	final1_autogen/timestamp	ed57c3696d40098e
+7	186	7262450880897931	final1_autogen/mocs_compilation.cpp	ed57c3696d40098e
+7	186	7262450880897931	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/timestamp	ed57c3696d40098e
+7	186	7262450880897931	C:/Users/Masoumeh/Desktop/my project c++/build-final1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/final1_autogen/mocs_compilation.cpp	ed57c3696d40098e
+199	1983	7262450898854420	CMakeFiles/final1.dir/Health.cpp.obj	7e8ed65472ecf0f1
+196	2255	7262450901571898	CMakeFiles/final1.dir/mainwindow.cpp.obj	1a65477e2d663d29
+2255	2590	7262450904868134	final1.exe	acbfa5976ddb8b31
